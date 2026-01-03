@@ -51,8 +51,6 @@ Thumbs.db
 *.png
 *.jpg
 *.jpeg
-results/*.png
-results/*.jpg
 
 # Logs
 *.log
